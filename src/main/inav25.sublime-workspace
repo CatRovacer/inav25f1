@@ -1,0 +1,1512 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"START",
+				"START1"
+			],
+			[
+				"b",
+				"bin"
+			],
+			[
+				"0x",
+				"0x10101010"
+			],
+			[
+				"I",
+				"Info_Field"
+			],
+			[
+				"In",
+				"InfoValueGet"
+			],
+			[
+				"r",
+				"range"
+			],
+			[
+				"Inf",
+				"Info_Val"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"Info",
+				"Info_idx"
+			],
+			[
+				"Da",
+				"Date2word32"
+			],
+			[
+				"Inc",
+				"Include"
+			],
+			[
+				"STM32",
+				"STM32L1xx"
+			],
+			[
+				"GPIO_",
+				"GPIO_Pin_8"
+			],
+			[
+				"stm32",
+				"stm32flash"
+			],
+			[
+				"LED",
+				"LED_PIN1"
+			],
+			[
+				"KE",
+				"KEY_Pin_2"
+			],
+			[
+				"L",
+				"LED_PIN1"
+			],
+			[
+				"LE",
+				"LED_PORT"
+			],
+			[
+				"Led",
+				"LED_PORT"
+			],
+			[
+				"LED_P",
+				"LED_PORT"
+			],
+			[
+				"GPIO",
+				"GPIO_Pin_8"
+			],
+			[
+				"S",
+				"STARTS"
+			],
+			[
+				"in",
+				"inc\t#include <…>"
+			],
+			[
+				"O",
+				"OBJS"
+			],
+			[
+				"x",
+				"xi6"
+			],
+			[
+				"sy",
+				"system"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"c",
+				"contrast"
+			],
+			[
+				"lcd_",
+				"lcd_update"
+			],
+			[
+				"T",
+				"TARGT"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"e",
+				"endif"
+			],
+			[
+				"PCBX",
+				"PCBXI6"
+			],
+			[
+				"H",
+				"HEADER_FILES"
+			],
+			[
+				"B",
+				"Build"
+			],
+			[
+				"C",
+				"C_DEFINES"
+			],
+			[
+				"cpp",
+				"cpp"
+			],
+			[
+				"TA",
+				"TARGET_SRCS"
+			],
+			[
+				"F",
+				"FIRMWARE_SRCS"
+			],
+			[
+				"TAR",
+				"TARGET_SRCS"
+			],
+			[
+				"GU",
+				"GUI_DIR"
+			],
+			[
+				"DEV",
+				"DEVICE"
+			],
+			[
+				"fl",
+				"flysky"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"PO",
+				"POT_R"
+			],
+			[
+				"de",
+				"defined"
+			],
+			[
+				"PCB",
+				"PCBXI6X"
+			],
+			[
+				"if",
+				"ifdef"
+			],
+			[
+				"EL",
+				"else"
+			],
+			[
+				"DE",
+				"DEV_CUT"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"DSTM",
+				"DSTM32F072"
+			],
+			[
+				"Ii6",
+				"Ii6x9"
+			],
+			[
+				"I6",
+				"I6X9"
+			],
+			[
+				"PCBI6",
+				"PCBI6X"
+			],
+			[
+				"PC",
+				"PCBI6S"
+			],
+			[
+				"DST",
+				"DSTM32F072"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"GPIOB",
+				"GPIOB"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "target/NAZE/target.h",
+			"settings":
+			{
+				"buffer_size": 6957,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "//"
+					},
+					"AgAAALcDAAAAAAAAuAMAAAAAAAAAAAAAuAMAAAAAAAC5AwAAAAAAAAAAAAA",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC3AwAAAAAAALcDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "//"
+					},
+					"AgAAAOQEAAAAAAAA5QQAAAAAAAAAAAAA5QQAAAAAAADmBAAAAAAAAAAAAAA",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADkBAAAAAAAAOQEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAGUMAAAAAAAAZgwAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABlDAAAAAAAAGUMAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAGUMAAAAAAAAZgwAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABlDAAAAAAAAGUMAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "if"
+					},
+					"AgAAAGYMAAAAAAAAZwwAAAAAAAAAAAAAZwwAAAAAAABoDAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABmDAAAAAAAAGYMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " 0"
+					},
+					"AgAAAGgMAAAAAAAAaQwAAAAAAAAAAAAAaQwAAAAAAABqDAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABoDAAAAAAAAGgMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "#en"
+					},
+					"AwAAAHwNAAAAAAAAfQ0AAAAAAAAAAAAAfQ0AAAAAAAB+DQAAAAAAAAAAAAB+DQAAAAAAAH8NAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB8DQAAAAAAAHwNAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "dif"
+					},
+					"AwAAAH8NAAAAAAAAgA0AAAAAAAAAAAAAgA0AAAAAAACBDQAAAAAAAAAAAACBDQAAAAAAAIINAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB/DQAAAAAAAH8NAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAIINAAAAAAAAgw0AAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACCDQAAAAAAAIINAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAGUMAAAAAAAA9AwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGUMAAAAAAAAZQwAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"file": "/home/user/Downloads/_drone/_inav/inav_p/make/mcu/STM32F3.mk",
+			"settings":
+			{
+				"buffer_size": 2602,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/home/user/Downloads/_drone/_inav/inav_p/make/mcu/STM32F4.mk",
+			"settings":
+			{
+				"buffer_size": 8124,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "target/MATEKF411TE/target.h",
+			"redo_stack":
+			[
+				[
+					122,
+					1,
+					"insert",
+					{
+						"characters": "\n+"
+					},
+					"AgAAALsRAAAAAAAAuxEAAAAAAAABAAAAK7oRAAAAAAAAuhEAAAAAAAABAAAACg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALwRAAAAAAAAvBEAAAAAAAAAAAAAAADwvw"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 4538,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"paste",
+					null,
+					"AQAAAJwDAAAAAAAAJAQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJwDAAAAAAAAnAMAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "#if"
+					},
+					"AwAAABMDAAAAAAAAFAMAAAAAAAAAAAAAFAMAAAAAAAAVAwAAAAAAAAAAAAAVAwAAAAAAABYDAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABMDAAAAAAAAEwMAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": " 0"
+					},
+					"AgAAABYDAAAAAAAAFwMAAAAAAAAAAAAAFwMAAAAAAAAYAwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABYDAAAAAAAAFgMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "#e"
+					},
+					"AgAAAGMDAAAAAAAAZAMAAAAAAAAAAAAAZAMAAAAAAABlAwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGMDAAAAAAAAYwMAAAAAAAAAAAAAAABEQA"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "ndif"
+					},
+					"BAAAAGUDAAAAAAAAZgMAAAAAAAAAAAAAZgMAAAAAAABnAwAAAAAAAAAAAABnAwAAAAAAAGgDAAAAAAAAAAAAAGgDAAAAAAAAaQMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGUDAAAAAAAAZQMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAGkDAAAAAAAAagMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGkDAAAAAAAAaQMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					28,
+					1,
+					"cut",
+					null,
+					"AQAAAKgDAAAAAAAAqAMAAAAAAABKAAAAI2RlZmluZSBMRUQwICAgICAgICAgICAgICAgICAgICBQQTE0CiNkZWZpbmUgTEVEMSAgICAgICAgICAgICAgICAgICAgUEExMwo",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKgDAAAAAAAA8gMAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					30,
+					1,
+					"paste",
+					null,
+					"AQAAAGsDAAAAAAAAtQMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGsDAAAAAAAAawMAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAALUDAAAAAAAAtgMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALUDAAAAAAAAtQMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABMDAAAAAAAAFAMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABMDAAAAAAAAEwMAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					37,
+					1,
+					"right_delete",
+					null,
+					"AQAAAPQDAAAAAAAA9AMAAAAAAAA9AAAACiNkZWZpbmUgQkVFUEVSICAgICAgICAgICAgICAgICAgUEIyCiNkZWZpbmUgQkVFUEVSX0lOVkVSVEVECg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPQDAAAAAAAAMQQAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					38,
+					1,
+					"right_delete",
+					null,
+					"AQAAAPQDAAAAAAAA9AMAAAAAAAABAAAACg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPQDAAAAAAAA9AMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					43,
+					1,
+					"right_delete",
+					null,
+					"AQAAALIDAAAAAAAAsgMAAAAAAAABAAAAQQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALIDAAAAAAAAsgMAAAAAAAAAAAAAAIBwQA"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "C"
+					},
+					"AQAAALIDAAAAAAAAswMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALIDAAAAAAAAsgMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					46,
+					1,
+					"left_delete",
+					null,
+					"AQAAAI0DAAAAAAAAjQMAAAAAAAABAAAAQQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAI4DAAAAAAAAjgMAAAAAAAAAAAAAAABxQA"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "C"
+					},
+					"AQAAAI0DAAAAAAAAjgMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAI0DAAAAAAAAjQMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "//"
+					},
+					"AgAAABoPAAAAAAAAGw8AAAAAAAAAAAAAGw8AAAAAAAAcDwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABoPAAAAAAAAGg8AAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "V"
+					},
+					"AQAAALEPAAAAAAAAsg8AAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALEPAAAAAAAAsQ8AAAAAAAAAAAAAAAAwQA"
+				],
+				[
+					59,
+					1,
+					"left_delete",
+					null,
+					"AQAAALEPAAAAAAAAsQ8AAAAAAAABAAAAVg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALIPAAAAAAAAsg8AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					60,
+					1,
+					"paste",
+					null,
+					"AQAAALEPAAAAAAAARhAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALEPAAAAAAAAsQ8AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					65,
+					12,
+					"right_delete",
+					null,
+					"DAAAAOYPAAAAAAAA5g8AAAAAAAABAAAAfOYPAAAAAAAA5g8AAAAAAAABAAAAIOYPAAAAAAAA5g8AAAAAAAABAAAARuYPAAAAAAAA5g8AAAAAAAABAAAAReYPAAAAAAAA5g8AAAAAAAABAAAAQeYPAAAAAAAA5g8AAAAAAAABAAAAVOYPAAAAAAAA5g8AAAAAAAABAAAAVeYPAAAAAAAA5g8AAAAAAAABAAAAUuYPAAAAAAAA5g8AAAAAAAABAAAAReYPAAAAAAAA5g8AAAAAAAABAAAAX+YPAAAAAAAA5g8AAAAAAAABAAAAT+YPAAAAAAAA5g8AAAAAAAABAAAAUw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOYPAAAAAAAA5g8AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					66,
+					2,
+					"right_delete",
+					null,
+					"AgAAAOYPAAAAAAAA5g8AAAAAAAABAAAAROYPAAAAAAAA5g8AAAAAAAABAAAAIA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOYPAAAAAAAA5g8AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": "//"
+					},
+					"AgAAAGEJAAAAAAAAYgkAAAAAAAAAAAAAYgkAAAAAAABjCQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGEJAAAAAAAAYQkAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					79,
+					1,
+					"insert",
+					{
+						"characters": "//"
+					},
+					"AgAAAEwLAAAAAAAATQsAAAAAAAAAAAAATQsAAAAAAABOCwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEwLAAAAAAAATAsAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					85,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGEJAAAAAAAAYQkAAAAAAAABAAAALw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGIJAAAAAAAAYgkAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					86,
+					1,
+					"right_delete",
+					null,
+					"AQAAAGEJAAAAAAAAYQkAAAAAAAABAAAALw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGEJAAAAAAAAYQkAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					91,
+					1,
+					"paste",
+					null,
+					"AQAAAGsDAAAAAAAAcAMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGsDAAAAAAAAawMAAAAAAAAAAAAAAABEQA"
+				],
+				[
+					92,
+					1,
+					"left_delete",
+					null,
+					"AQAAAG8DAAAAAAAAbwMAAAAAAAABAAAAMA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHADAAAAAAAAcAMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					93,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAG8DAAAAAAAAcAMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAG8DAAAAAAAAbwMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					95,
+					1,
+					"insert",
+					{
+						"characters": "#end"
+					},
+					"BAAAALsDAAAAAAAAvAMAAAAAAAAAAAAAvAMAAAAAAAC9AwAAAAAAAAAAAAC9AwAAAAAAAL4DAAAAAAAAAAAAAL4DAAAAAAAAvwMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALsDAAAAAAAAuwMAAAAAAAAAAAAAAABEQA"
+				],
+				[
+					96,
+					1,
+					"insert",
+					{
+						"characters": "if"
+					},
+					"AgAAAL8DAAAAAAAAwAMAAAAAAAAAAAAAwAMAAAAAAADBAwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAL8DAAAAAAAAvwMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					97,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAMEDAAAAAAAAwgMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMEDAAAAAAAAwQMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					99,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAGsDAAAAAAAAbAMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGsDAAAAAAAAawMAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					102,
+					1,
+					"right_delete",
+					null,
+					"AQAAABgDAAAAAAAAGAMAAAAAAAABAAAAMA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABgDAAAAAAAAGAMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					103,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAABgDAAAAAAAAGQMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABgDAAAAAAAAGAMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					105,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHADAAAAAAAAcAMAAAAAAAABAAAAMQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHEDAAAAAAAAcQMAAAAAAAAAAAAAAABEQA"
+				],
+				[
+					106,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AQAAAHADAAAAAAAAcQMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHADAAAAAAAAcAMAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"file": "/home/user/Downloads/_drone/_inav/inav_p/Makefile",
+			"settings":
+			{
+				"buffer_size": 12901,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/home/user/Downloads/_drone/_inav/inav_p/make/source.mk",
+			"settings":
+			{
+				"buffer_size": 9863,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/user/Downloads/_drone/_inav/inav_p/make/mcu/STM32F1.mk",
+			"settings":
+			{
+				"buffer_size": 1873,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				"Clean"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 32.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/user/Downloads/_drone/_inav/inav_p/src/main",
+		"/home/user/Downloads/_drone/_inav/inav_p/src/main/config",
+		"/home/user/Downloads/_drone/_inav/inav_p/src/main/target",
+		"/home/user/Downloads/_drone/_inav/inav_p/src/main/target/MATEKF411TE",
+		"/home/user/Downloads/_drone/_inav/inav_p/src/main/target/NAZE"
+	],
+	"file_history":
+	[
+		"/home/user/Downloads/_drone/_inav/inav_p/make/mcu/STM32.mk",
+		"/home/user/Downloads/_drone/_inav/inav_p/src/main/config/feature.h",
+		"/home/user/Downloads/_drone/_inav/inav_p/lib/main/STM32F1/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c",
+		"/home/user/Downloads/_drone/_inav/inav_p/src/main/target/sanity_check.h",
+		"/home/user/Downloads/_drone/_inav/inav_p/src/main/target/NAZE/target.mk",
+		"/home/user/Downloads/_drone/_inav/inav_p/src/main/target/common.h",
+		"/home/user/Downloads/!code/_drone/_inav/inav_p/make/mcu/STM32F1.mk",
+		"/home/user/Downloads/!code/_drone/_inav/inav_p/Makefile",
+		"/home/user/Downloads/!code/_drone/_inav/inav_p/make/tools.mk",
+		"/home/user/Downloads/!code/_drone/_inav/inavf1/src/main/target/common.h",
+		"/home/user/Downloads/!code/_drone/_inav/inavf1/Makefile",
+		"/home/user/Downloads/!code/_drone/_inav/inavf1/.git/config",
+		"/home/user/Downloads/!code/_drone/_inav/inav_p/make/targets.mk",
+		"/home/user/Downloads/!code/_drone/_inav/inav_p/src/main/platform.h",
+		"/home/user/Downloads/!code/_drone/_inav/inav_p/make/mcu/STM32.mk",
+		"/home/user/.bashrc",
+		"/home/user/Downloads/!code/_drone/_inav/inav_p/src/main/target/MATEKF411TE/target.mk",
+		"/home/user/Downloads/!code/_drone/_inav/inav_p/src/main/drivers/bus.h",
+		"/home/user/Downloads/!code/_drone/_inav/inav_p/src/main/target/common.h",
+		"/home/user/Downloads/!code/_drone/_inav/inav_p/src/main/fc/fc_init.c",
+		"/home/user/Downloads/_drone/_inav/inav/src/main/fc/fc_init.c",
+		"/home/user/Downloads/_drone/_inav/inav_p/Makefile",
+		"/home/user/Downloads/_drone/_inav/inav_p/src/main/target/MATEKF411TE/target.h",
+		"/home/user/Downloads/_drone/_inav/inav_p/src/main/target/MATEKF411TE/config.c",
+		"/home/user/Downloads/_drone/_inav/inav/src/main/target/MATEKF411TE/target.h",
+		"/home/user/Downloads/_drone/_inav/inav/src/main/target/MAMBAF405US/target.h",
+		"/home/user/Downloads/!code/Aviation-Altimeter/Makefile",
+		"/home/user/Downloads/!code/er6x/gerfly6x/makefile",
+		"/home/user/Downloads/code/er6x/_LCD/LCD5510_src/lcd5110_soft_spi_drv.c",
+		"/home/user/Downloads/code/er6x/_LCD/LCD5510_src/lcd_proc.c",
+		"/home/user/Downloads/code/er6x/_LCD/LCD5510_src/main.c",
+		"/home/user/Downloads/code/er6x/_LCD/st7565_src/ST7565R.c",
+		"/home/user/Downloads/code/er6x/_LCD/st7565_src/ST7565R.h",
+		"/home/user/Downloads/code/er6x/_LCD/LCD5510_src/lcd_proc.h",
+		"/home/user/Downloads/code/er6x/gerfly6x/makefile",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/makefile",
+		"/home/user/Downloads/code/er6x/_LCD/makefile",
+		"/home/user/Downloads/code/er6x/gerfly6x/gldFSI6.mak",
+		"/home/user/Downloads/code/_templ/makefile",
+		"/home/user/Downloads/code/_templ/Makefile",
+		"/home/user/Downloads/code/_templ/makefil",
+		"/home/user/Downloads/code/_templ/makefild",
+		"/home/user/Downloads/code/_templ/makefile_ar6x",
+		"/home/user/Downloads/code/writecrc2bin/WriteCRC2bin.py",
+		"/home/user/Downloads/code/writecrc2bin/tstinfdic.py",
+		"/home/user/Downloads/code/_cython/tstinfdic.py",
+		"/home/user/Downloads/code/_STM32L1/stm32l151-USB-FS-VCOM/stm32L1_Blink_Led.c",
+		"/home/user/Downloads/code/_STM32L1/stm32l151-USB-FS-VCOM/systick_blink.c",
+		"/home/user/Downloads/code/_STM32L1/stm32l151-USB-FS-VCOM/loral151_conf.h",
+		"/home/user/Downloads/code/_STM32L1/stm32l151-USB-FS-VCOM/stm32L1_blink.c",
+		"/home/user/Downloads/code/_STM32L1/stm32l151-USB-FS-VCOM/stm32L1_blinky.c",
+		"/home/user/Downloads/code/_STM32L1/stm32l151-USB-FS-VCOM/makefile",
+		"/home/user/Downloads/code/_STM32L1/stm32l151-USB-FS-VCOM/cmsis_boot/stm32l1xx.h",
+		"/home/user/Downloads/code/_STM32L1/stm32l151-USB-FS-VCOM/cmsis/core_cm3.h",
+		"/home/user/Downloads/code/_STM32L1/stm32-blinky/Makefile",
+		"/home/user/Downloads/code/_STM32L1/stm32l151-USB-FS-VCOM/loral151_conf.c",
+		"/home/user/Downloads/code/_STM32L1/stm32l151-USB-FS-VCOM/STM32L_Blink_Led.c",
+		"/home/user/Downloads/code/_stm32/stm32samples-master/F1-nolib/led_blink/main.c",
+		"/home/user/Downloads/code/_STM32L1/STM32L_Blink_Led/STM32L_Blink_Led.c",
+		"/home/user/Downloads/code/_ESP32/LoRaL151/L151_PingPang/makefile",
+		"/home/user/Downloads/code/_sndbox/avis/makefile",
+		"/home/user/Downloads/code/_STM32L1/led/Makefile",
+		"/home/user/Downloads/code/_ESP32/LoRaL151/L151_PingPang/Inc/stm32l1xx_conf.h",
+		"/home/user/Downloads/code/Aviation-Altimeter/Makefile",
+		"/home/user/Downloads/code/_ESP32/LoRaL151/L151_PingPang/Src/main.c",
+		"/home/user/Downloads/code/openground/OpenGround/Makefile",
+		"/home/user/Downloads/code/openground/openground-now/OpenGround/Makefile",
+		"/home/user/Downloads/code/_stm32/uart_f0/Makefile",
+		"/home/user/Downloads/code/_STM32L1/led/main.c",
+		"/home/user/Downloads/code/_ESP32/LoRaL151/L151_PingPang/Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_rtc.h",
+		"/home/user/Downloads/code/_ESP32/LoRaL151/L151_PingPang/Src/SX127x.c",
+		"/home/user/Downloads/code/_ESP32/LoRaL151/L151_PingPang/Drivers/STM32L1xx_HAL_Driver/Inc/stm32l1xx_hal_spi.h",
+		"/home/user/Downloads/code/_ESP32/LoRaL151/L151_PingPang/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_uart.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/ogd_src/Makefile",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/ogd_src/spi.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/libopencm3/lib/stm32/common/spi_common_f03.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/makefil",
+		"/home/user/Downloads/code/_stm32/stm32samples-master/F0-nolib/blink/Makefile",
+		"/home/user/Downloads/code/_stm32/stm32samples-master/F0/blink/Makefile",
+		"/home/user/Downloads/code/_stm32/blink_f0/makefil",
+		"/home/user/Downloads/code/_stm32/blink_f0/Makefile",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/ar_src/mixer.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/xi6/keypad.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/xi6/eeprom.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/ar_src/settings.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/ar_src/gui.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/ar_src/probe.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/ar_src/usart.c",
+		"/home/user/Downloads/code/_sndbox/u8glib_arm/stm32f103/u8g_arm.c",
+		"/home/user/Downloads/code/_sndbox/u8glib_arm/stm32f103/graphics_test.c",
+		"/home/user/Downloads/code/_sndbox/u8glib_arm/stm32f103/makefil",
+		"/home/user/Downloads/code/_sndbox/edem/ex_ssd1331.c",
+		"/home/user/Downloads/code/_sndbox/edem/makefile",
+		"/home/user/Downloads/code/_sndbox/edem/makefil",
+		"/home/user/Downloads/code/_sndbox/u8glib_arm/stm32f103/main.cpp",
+		"/home/user/Downloads/code/_sndbox/u8glib_arm/stm32f103/hal.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/xi6/lcd.c",
+		"/home/user/Downloads/code/_sndbox/u8glib_arm/stm32f103/common/u8g_arm.h",
+		"/home/user/Downloads/code/_sndbox/u8glib_arm/stm32f103/common/u8g_arm.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/probe.c",
+		"/home/user/Downloads/code/_sndbox/u8glib_arm/stm32f103/graphics_test/makefilss",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/system/f0/startup_stm32f072_otx.s",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/system/f0/startup_stm32f072_f1t6.s",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/peripherals/f1/inc/stm32f10x_i2c.h",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/peripherals/f1/src/stm32f10x_i2c.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/t6/eeprom.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/xi6/system.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/tasks.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/xi6/serial2_driver.cpp",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/xi6/system.h",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/opengnd/io.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/t6/system.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/opengnd/config.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/xi6/hal.h",
+		"/home/user/Downloads/code/_stm32/F0-nolib/blink/systick_blink.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/xi6/sound.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/t6/lcd.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/debug.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/system/f0/stm32f0xx.h",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/xi6/system/stm32f0xx.h",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/system/f1/stm32f10x_conf.h",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/probe.cc",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/usart.c",
+		"/home/user/Downloads/code/LCD/KS0108/ks0108/makefil",
+		"/home/user/Downloads/code/LCD/KS0108/ks0108/makefild",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/main.c",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/myeeprom.h",
+		"/home/user/Downloads/code/ar-t6/f0-f1_frw/mixer.c"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"(TARGET_MCU_GROUP)",
+			"STM32F4.mk",
+			"BASE_TARGET",
+			"TARGET_DIR_SRC",
+			"system_stm32f10x.c",
+			"CMSIS_SRC",
+			"TARGET_DIR_SRC",
+			"system_stm32f10x.c",
+			"USE_GYRO_xxx",
+			"TOOL",
+			"USE_CLI_BATCH",
+			"USE_LOGIC_CONDITIONS",
+			"F3_TARGETS",
+			"STBOOT",
+			"SRCSDIR",
+			"get_word_bytes_32",
+			"WHITE_LED_PORT",
+			"GPIOA",
+			"BOOTSPEED",
+			"DRVDIR",
+			"INCDIR",
+			"OOCD_FILE",
+			"STLINK_PORT",
+			"STBOOT",
+			"spi_init_mode",
+			"BIN_DIR",
+			"STYLECHECK",
+			"t6/",
+			"xi6/",
+			"t6/",
+			"xi6/",
+			"Reset_Handler",
+			"I2C_GetFlagStatus",
+			"Advanced state monitoring",
+			"I2C1_",
+			"lcd_powerdown",
+			"lcd_set_contrast",
+			"lcd_init_rcc",
+			"BUZZER_PIN",
+			"backlight",
+			"assert_param",
+			"SysTick",
+			"PendSV_Handler",
+			"g_chans",
+			"GPIOMode_TypeDef",
+			"GPIO_Mode_IN_FLOATING",
+			"GPIO_AF_USART3",
+			"USART3_IRQn",
+			"RCC_APB2Periph_GPIOA",
+			"I2C_EVENT",
+			"I2C_DMACmd",
+			"DMA1_Channel4_5_6_7_IRQn",
+			"DMA1_Channel1",
+			"DMA1_Channel",
+			"I2C1_EV_IRQn",
+			"_EV_IRQn",
+			"I2C1_EV_IRQn",
+			"speed",
+			"i2c_init",
+			"gpio_init",
+			"GPIO_Mode_AF_",
+			"GPIO_Mode_AF_OD",
+			"I2C_PINS",
+			"RCC_APB2Periph_GPIOB",
+			"nvicInit",
+			"nvic",
+			"GPIOMode_TypeDef",
+			"GPIO_Mode_AF_PP",
+			"system_ticks",
+			"KEY_PLUS",
+			"TRM_LAST",
+			"TRM_BASE",
+			"KEY_LEFT",
+			"define \"drivers.h\"",
+			"key",
+			"KEY_DOWN",
+			"KEY_",
+			"RCC_APB",
+			"ADC_SampleTime_",
+			"gpioInit",
+			"ADC_ExternalTrigConv",
+			"ADC_ExternalTrigConv_",
+			"ADC_ExternalTrigConv",
+			"GPIO_Mode",
+			"GPIO_Mode_",
+			"GPIO_Mode_AIN",
+			"EnumKeys",
+			"GPIO_Mode_AF_OD",
+			"RCC_APB2Periph_",
+			"RCC_APB2Periph_GPIOA",
+			"!FALSE} bool;",
+			"typedef enum {FALSE = 0, TRUE = !FALSE} bool;",
+			"lcdInit",
+			"boardInit",
+			"SystemCoreClockUpdate",
+			"STM32F0xx_StdPeriph_Lib_V1.5.0/Libraries/STM32F0xx_StdPeriph_Driver/inc/",
+			"bool",
+			"LCD_DATA_PIN",
+			"$(OBJDIR)",
+			"enter_bootloader",
+			"VTOR",
+			"RCC_AHB1ENR",
+			"uint32_t",
+			"PeripheralSpeeds",
+			" defined(PCBX12D)",
+			"PeripheralSpeeds",
+			"EEGeneral  g_eeGeneral",
+			"XI6",
+			"I6X",
+			"XI6",
+			"I6X",
+			"PCBI6X",
+			"I6X",
+			"delay_ms",
+			"displayBuf",
+			"DisplayBuf",
+			"GREY_SCALE",
+			"DisplayBuf",
+			"lcdRefreshInternal",
+			"CurrentFrameBuffer",
+			"@echo",
+			"XI6",
+			"delay_ms",
+			"refreshDisplay",
+			"backlight_set",
+			"X9D/stm32f2",
+			"PCBX9",
+			"misc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"GPIOB",
+			"WHITE_LED_PORT",
+			"../t6/",
+			"../xi6/",
+			"../t6/",
+			"../xi6/",
+			"i2cInit",
+			"gpioInit",
+			"",
+			"PCBXI6",
+			"XI6/stm32f0",
+			"XI6/",
+			"",
+			"targets/flysky/",
+			"STM32F0xx_Std",
+			"PCBI6X",
+			"RCC_AHBPeriph",
+			"I6X9"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "target/NAZE/target.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6957,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2867,
+								2867
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1023.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/user/Downloads/_drone/_inav/inav_p/make/mcu/STM32F3.mk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2602,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								616,
+								616
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/user/Downloads/_drone/_inav/inav_p/make/mcu/STM32F4.mk",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3067,
+								3067
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1326.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "target/MATEKF411TE/target.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4538,
+								4538
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1034.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/home/user/Downloads/_drone/_inav/inav_p/Makefile",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2894,
+								2912
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1384.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/user/Downloads/_drone/_inav/inav_p/make/source.mk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								693,
+								693
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3723.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/user/Downloads/_drone/_inav/inav_p/make/mcu/STM32F1.mk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1323,
+								1337
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.41102916108,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 169.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 100.0
+	},
+	"output.stino_panel":
+	{
+		"height": 199.0
+	},
+	"pinned_build_system": "",
+	"project": "inav25.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Downloads/code/opentx/opentx22/opentx_M0/opentx/radio/src/targets/taranis/opentxI6X_sublime-project.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
