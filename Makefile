@@ -437,11 +437,8 @@ help: Makefile
 
 ## compress to archive
 arc: clean
-	 rm -rf ./$(BUILD_DIR)
-	tar cvzf ../$(ROOT)_$(shell export LC_TIME=en_US.UTF-8;date +%d%h%y).tgz -C.. $${PWD##*/} 
-#	 echo -e $(ROOT)_$(shell export LC_TIME=en_US.UTF-8;date +%d%h%y).tgz
-#	 echo -e  -C.. $${PWD##*/} 
-
+	rm -rf ./$(BUILD_DIR)
+	tar cvzf ../$${PWD##*/}_$(shell export LC_TIME=en_US.UTF-8;date +%d%h%y).tgz -C.. $${PWD##*/} 
 
 ## test              : run the cleanflight test suite
 test:
